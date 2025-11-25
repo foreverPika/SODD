@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This directory provides four JAR files for executing the SODD algorithm on different datasets, including both single-threaded and multi-threaded versions. Below is a concise introduction to each JAR file, along with their usage instructions.
+This directory provides four JAR files for executing the SODD algorithm on different datasets. Below is a concise introduction to each JAR file, along with their usage instructions.
 
 ## Requirements
 
@@ -12,8 +12,8 @@ This directory provides four JAR files for executing the SODD algorithm on diffe
 
 |  File  |  Description  |
 |  ----  | ----  |
-| `SODD.jar` | Single-threaded SODD algorithm for integer datasets. |
-| `SODDL.jar` | Single-threaded SODD algorithm optimized for long-type datasets. |
+| `SODD.jar` | SODD algorithm for integer datasets. |
+| `SODDL.jar` | SODD algorithm optimized for long-type datasets. |
 
 ## Usage
 
