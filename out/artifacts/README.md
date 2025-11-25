@@ -14,8 +14,6 @@ This directory provides four JAR files for executing the SODD algorithm on diffe
 |  ----  | ----  |
 | `SODD.jar` | Single-threaded SODD algorithm for integer datasets. |
 | `SODDL.jar` | Single-threaded SODD algorithm optimized for long-type datasets. |
-| `SODDM.jar` | Multi-threaded SODD version for integer datasets, default 8 threads. |
-| `SODDML.jar` | Multi-threaded SODD version for long-type datasets, default 8 threads. |
 
 ## Usage
 
@@ -23,7 +21,7 @@ All JAR files can be executed using the following command format:
 ```shell
 java -jar <jarFileName> <fp> <rowLimit> <k-1> <vioPairsThreshold> <rowRatio> <colRatio> 
 ```
-- `jarFileName`: The name of the JAR file you want to run (`SODD.jar`, `SODDL.jar`, `SODDM.jar`, or `SODDML.jar`).
+- `jarFileName`: The name of the JAR file you want to run (`SODD.jar`, `SODDL.jar`).
 - `fp`: The file path of the input dataset.
 - `rowLimit`: The maximum number of rows to process from the dataset.
 - `k`: A parameter for the validation process. Validate uses a min-heap to keep the top-k violating tuple pairs. It determines the number of high-priority violating pairs to retain for generating new non-OCDs.
