@@ -18,6 +18,7 @@
 |  NCV4M(ncvoter)  |  [hpi](https://hpi.de/naumann/projects/repeatability/algorithms/distod.html)  |
 |  NUT(Nutrition, Physical Activity, and Obesity)  |  https://www.kaggle.com/datasets/mattop/nutrition-physical-activity-and-obesity  |
 |  SAL(SF Salaries)  |  https://www.kaggle.com/datasets/kaggle/sf-salaries  |
+|  TLF(Transmission Line Fault Diagnosis Data)  |  https://www.kaggle.com/datasets/colabsss/transmission-line-fault-diagnosis-data  |
 |  VEH(Used Cars Dataset)  |  https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data  |
 |  WP(world population)  |  https://www.kaggle.com/datasets/iamsouravbanerjee/world-population-dataset/data  |
 
